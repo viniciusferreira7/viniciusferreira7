@@ -1,6 +1,6 @@
 ### Olá Eu sou Vinicius Ferreira
 
-- 🔭 Em busca de oportunidade como Desenvolverdor Frond-Ene junior.
+- 🔭 Em busca de oportunidade como Desenvolverdor Frond-End junior.
 - 🌱 Estudando jQuery.
 
 <div>
