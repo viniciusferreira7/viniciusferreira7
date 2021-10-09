@@ -1,4 +1,4 @@
-### Olá Eu sou Vinicius Ferreira
+### Eae! como vai ? Eu sou Vinicius Ferreira
 
 - 🔭 Em busca de uma oportunidade como Desenvolvedor Front-End junior.
 - 🌱 Estudando jQuery.
