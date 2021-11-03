@@ -1,7 +1,7 @@
 ### Eae! Como vai? Eu sou Vinicius Ferreira.
 
 - 🔭 Em busca de uma oportunidade como Desenvolvedor Front-End junior.
-- 🌱 Estudando Bootstrap.
+- 🌱 Estudando ReactJS.
 
 <div>
   <a href="https://github.com/viniciusferreira7">
@@ -14,6 +14,7 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
