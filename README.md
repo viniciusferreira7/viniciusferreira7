@@ -1,6 +1,6 @@
 ### Eae! Como vai? Eu sou Vinicius Ferreira.
 
-- 🔭 Em busca de uma oportunidade como Desenvolvedor Front-End junior.
+- 🔭 Em busca de uma oportunidade como Desenvolvedor Front End jr.
 - 🌱 Estudando React.js e Node.js
 
 <div>
