@@ -17,6 +17,8 @@
   <img align="center" alt="Vini-react.js" height="30" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vini-node.js" height="30" width="43" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Vini-mysql" height="55" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Vini-mysql" height="55" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript--original.svg">
+
 </div>
 
   ##
