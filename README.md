@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/viniciusferreira7">
-  <img  height="180em" src="https://github-readme-stats-eight-roan-46.vercel.app/api?username=viniciusFerreira7&show_icons=true&theme=radical"/>
-  <img  height="180em" src="https://github-readme-stats-eight-roan-46.vercel.app/api/top-langs/?username=viniciusFerreira7&layout=compact&theme=radical"/>
+  <img  height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api?username=viniciusFerreira7&show_icons=true&theme=radical"/>
+  <img  height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api/top-langs/?username=viniciusFerreira7&layout=compact&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
