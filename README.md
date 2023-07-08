@@ -1,7 +1,7 @@
 ### Eae! Como vai? Eu sou Vinicius Ferreira.
 
 - 🔭 Desenvolvedor Front End.
-- 🌱 Estudando React.js e Node.js
+- 🌱 Estudando Next.js e Node.js
 
 <div>
   <a href="https://github.com/viniciusferreira7">
