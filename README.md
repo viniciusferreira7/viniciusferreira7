@@ -1,6 +1,6 @@
 ### Eae! Como vai? Eu sou Vinicius Ferreira.
 
-- 🔭 Desenvolvedor Front End.
+- 🔭 Desenvolvedor Front End Jr.
 - 🌱 Estudando Next.js e Node.js
 
 <div>
