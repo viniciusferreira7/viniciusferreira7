@@ -1,8 +1,7 @@
 ### Eae! Como vai? Eu sou Vinicius Ferreira.
 
-- 🔭 Desenvolvedor Front End Jr.
-- 🌱 Estudando Next.js e Node.js
-
+- 🔭 Junior Front End Developer.
+- 🌱 Studying Next.js and Node.js
 <div>
   <a href="https://github.com/viniciusferreira7">
   <img  height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api?username=viniciusFerreira7&show_icons=true&theme=radical"/>
