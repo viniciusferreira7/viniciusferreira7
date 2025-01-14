@@ -1,4 +1,4 @@
-### Eae! Como vai? Eu sou Vinicius Ferreira.
+### Hey! How are you? I'm Vinicius Ferreira.
 
 - 🔭 Junior Front End Developer.
 - 🌱 Studying Next.js and Node.js.
