@@ -10,16 +10,17 @@ I'm a **Junior Front-End Developer** passionate about technology and continuous 
 ### 🧰 Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="TypeScript" title="TypeScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React.js" title="React.js" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/react.png?raw=true">
-  <img alt="Next.js" title="Next.js" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/next_js.png?raw=true">
-  <img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/tailwind_css.png?raw=true">
-  <img alt="Node.js" title="Node.js" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/node_js.png?raw=true">
-  <img alt="NestJS" title="NestJS" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/nest_js.png?raw=true">
-  <img alt="Fastify" title="Fastify" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/fastify.png?raw=true">
-  <img alt="Docker" title="Docker" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/docker.png?raw=true">
-  <img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/postgresql.png?raw=true">
-  <img alt="Terraform" title="Terraform" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/react.png" height="50" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/next_js.png" height="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/tailwind_css.png" height="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/node_js.png" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/nest_js.png" height="50" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/fastify.png" height="50" alt="Fastify" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/docker.png" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/postgresql.png" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform" />
+
 </div>
 
 ---
