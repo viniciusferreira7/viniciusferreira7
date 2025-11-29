@@ -20,7 +20,6 @@ I'm a **Junior Front-End Developer** passionate about technology and continuous 
   <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/docker.png" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/postgresql.png" height="50" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform" />
-
 </div>
 
 ---
@@ -29,10 +28,8 @@ I'm a **Junior Front-End Developer** passionate about technology and continuous 
 
 <div>
   <img height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api?username=viniciusFerreira7&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api/top-langs/?username=viniciusFerreira7&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api/top-langs/?username=viniciusFerreira7&layout=compact&theme=radical&langs_count=999" />
 </div>
-
----
 
 ### 📫 Let's Connect
 
