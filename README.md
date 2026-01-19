@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Vinicius Ferreira
 
-I'm a **Front-End Engineer** focused on building **scalable web and mobile applications**, with a strong interest in software architecture and performance.
+I'm a **Junior Front-End Engineer** focused on building **scalable web and mobile applications**, with a strong interest in software architecture and performance.
 
 * 🚀 Building modern interfaces with **React**, **Next.js**, **React Native**, and **Tailwind CSS**
 * 🧠 Currently studying **Node.js**, **NestJS**, **Fastify**, **Java with Spring Boot**, **Docker**, **Terraform**, **SQL**, **NoSQL**, **System Design**, and **Algorithms**
