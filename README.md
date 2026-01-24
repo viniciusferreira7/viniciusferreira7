@@ -14,7 +14,6 @@ I'm a **Junior Full-Stack Engineer** focused on building **scalable web and mobi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/react.png" height="50" alt="React.js" />
   <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/next_js.png" height="50" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/react.png" height="50" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/tailwind_css.png" height="50" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/node_js.png" height="50" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/nest_js.png" height="50" alt="NestJS" />
