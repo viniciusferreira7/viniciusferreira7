@@ -9,45 +9,19 @@ I'm a Fullstack Software Engineer with a growing focus on backend and distribute
 - 📨 Studying **Messaging** (RabbitMQ, Kafka, AWS SQS/SNS) and **Observability** (ELK, Prometheus, Grafana, distributed tracing)
 
 ---
-
 ### 🧰 Tech Stack
 
 #### Backend
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/node_js.png" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/nest_js.png" height="50" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/fastify.png" height="50" alt="Fastify" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="Python" />
-</div>
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,bun,java,spring)](https://skillicons.dev)
 
 #### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/react.png" height="50" alt="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/next_js.png" height="50" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/tailwind_css.png" height="50" alt="Tailwind CSS" />
-</div>
+[![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)](https://skillicons.dev)
 
 #### Messaging & Observability
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" height="50" alt="RabbitMQ" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="50" alt="Prometheus" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="50" alt="Grafana" />
-</div>
+[![Messaging](https://skillicons.dev/icons?i=rabbitmq,kafka,prometheus,grafana)](https://skillicons.dev)
 
 #### Infrastructure & Data
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/docker.png" height="50" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="50" alt="Terraform" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/postgresql.png" height="50" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="50" alt="Redis" />
-</div>
-
+[![Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,postgresql,redis)](https://skillicons.dev)
 ---
 
 ### 📊 GitHub Stats
