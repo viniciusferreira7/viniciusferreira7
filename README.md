@@ -30,11 +30,3 @@ I'm a Fullstack Software Engineer with a growing focus on backend and distribute
   <img height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api?username=viniciusFerreira7&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eosin-six-72.vercel.app/api/top-langs/?username=viniciusFerreira7&layout=compact&theme=radical&langs_count=999" />
 </div>
-
----
-
-### 📫 Let's Connect
-
-<a href="https://www.linkedin.com/in/vinicius-ferreira-84b68b162/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
